@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="latency2" size="1337.000000 1822.000000" />
+    <ImageTarget name="consistency2" size="1316.000000 1892.000000" />
+    <ImageTarget name="latency" size="240.000000 338.000000" />
+    <ImageTarget name="consistency" size="712.000000 1000.000000" />
+    <ImageTarget name="297-Swamp" size="256.000000 357.433960" />
+    <ImageTarget name="301-Forest" size="256.000000 357.433960" />
+    <ImageTarget name="afr-314-manticore" size="672.000000 936.000000" />
+    <ImageTarget name="neo-294-plains" size="672.000000 936.000000" />
+    <ImageTarget name="pm19-110-murder" size="672.000000 936.000000" />
+  </Tracking>
+</QCARConfig>
